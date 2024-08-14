@@ -5,3 +5,6 @@
 ## Contents
 
 * [Lichess.org](https://lichess.org) - Free and Open Source website to play chess and learn
+
+## Endorsements
+jason and rest of bbit
